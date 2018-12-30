@@ -14,7 +14,7 @@ Once all cards are matched you will be prompted to play again.
 ## How to play
 
 - Click on a card.
-- Try to remember the car and its position.
+- Try to remember the card and its position.
 - Click the next card and check if it is a match.
 - When all cards match you finished the game!!!
 
